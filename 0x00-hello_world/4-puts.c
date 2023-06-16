@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - C program prints with puts function 
+ * main - C puts function. 
  * Return: 0 (Success)
  */
 int main(void)
